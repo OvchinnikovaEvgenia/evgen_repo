@@ -1,0 +1,17 @@
+<suite name="TestSuite">
+    <test name="FilmTest">
+        <classes>
+            <class name="filmTest.FilmsTest" />
+        </classes>
+    </test>
+    <test name="CartoonTest">
+        <classes>
+            <class name="catroonTest.CartoonsTest" />
+        </classes>
+    </test>
+    <test name="SerialTest">
+        <classes>
+            <class name="serialsTest.SerialsTest" />
+        </classes>
+    </test>
+</suite>
